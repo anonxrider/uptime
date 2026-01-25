@@ -4,19 +4,19 @@
     "url": "https://aproitsolutions.in/",
     "icon": "https://icons.duckduckgo.com/ip3/aproitsolutions.in.ico",
     "slug": "apro-it-solutions",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "93.48%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "96.18%",
-    "uptimeYear": "99.38%",
-    "time": 8593,
-    "timeDay": 3944,
-    "timeWeek": 4438,
-    "timeMonth": 4420,
-    "timeYear": 8573,
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "99.39%",
+    "time": 8585,
+    "timeDay": 3965,
+    "timeWeek": 4429,
+    "timeMonth": 4417,
+    "timeYear": 8565,
     "dailyMinutesDown": {
-      "2026-01-25": 94,
+      "2026-01-25": 102,
       "2026-01-24": 152,
       "2026-01-23": 145,
       "2026-01-22": 30,
@@ -68,7 +68,7 @@
       "2025-12-01": 35,
       "2025-11-30": 93,
       "2025-11-27": 108,
-      "2025-11-26": 26
+      "2025-11-26": 4
     }
   }
 ]
