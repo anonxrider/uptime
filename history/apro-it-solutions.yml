@@ -1,7 +1,7 @@
 url: https://aproitsolutions.in/
-status: up
-code: 200
-responseTime: 4378
-lastUpdated: 2026-04-25T04:40:29.387Z
+status: down
+code: 429
+responseTime: 1596
+lastUpdated: 2026-04-25T05:24:29.208Z
 startTime: 2023-01-18T10:45:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
