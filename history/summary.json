@@ -6,17 +6,17 @@
     "slug": "apro-it-solutions",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "71.56%",
-    "uptimeMonth": "81.72%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "71.12%",
+    "uptimeMonth": "81.76%",
     "uptimeYear": "98.48%",
-    "time": 5652,
-    "timeDay": 3791,
-    "timeWeek": 4081,
-    "timeMonth": 3379,
+    "time": 5654,
+    "timeDay": 4008,
+    "timeWeek": 4112,
+    "timeMonth": 3407,
     "timeYear": 4926,
     "dailyMinutesDown": {
-      "2026-05-27": 105,
+      "2026-05-27": 40,
       "2026-05-28": 225,
       "2026-05-29": 153,
       "2026-05-30": 60,
@@ -40,7 +40,7 @@
       "2026-06-17": 274,
       "2026-06-18": 435,
       "2026-06-19": 423,
-      "2026-06-20": 23
+      "2026-06-20": 74
     }
   }
 ]
