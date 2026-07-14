@@ -4,7 +4,7 @@
     "url": "https://aproitsolutions.in/",
     "icon": "https://icons.duckduckgo.com/ip3/aproitsolutions.in.ico",
     "slug": "apro-it-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "95.88%",
     "uptimeWeek": "91.28%",
@@ -13,7 +13,7 @@
     "time": 5534,
     "timeDay": 3368,
     "timeWeek": 3478,
-    "timeMonth": 3792,
+    "timeMonth": 3791,
     "timeYear": 4602,
     "dailyMinutesDown": {
       "2026-06-15": 543,
